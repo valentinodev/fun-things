@@ -1,2 +1,1 @@
-# fun-things
 Hello world
